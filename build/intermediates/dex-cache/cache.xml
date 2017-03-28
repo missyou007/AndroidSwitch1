@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Tool\androidSdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\miss\Desktop\AndroidSwitch1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_cfa8a23812dae0e3c0482770c3581baf5c36677e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\miss\Desktop\AndroidSwitch1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03309b0559fcbe4351d9585b951cedc7c10ee204">
+        <dex dex="C:\Users\miss\Desktop\AndroidSwitch1\app\build\intermediates\pre-dexed\debug\instant-run_2607f479925a7ced084594ee7fd030192b41db49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\miss\Desktop\AndroidSwitch1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8b824d4cd16e5449c966b55a8600fb6198b118af">
+        <dex dex="C:\Users\miss\Desktop\AndroidSwitch1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_96cc44189f5fc983ee8b03298c9479fe683a1730.jar" />
+    </item>
+
+</items>

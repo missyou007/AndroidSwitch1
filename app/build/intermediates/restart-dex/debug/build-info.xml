@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="107039476860140"
+    token="-1645827857375971725"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="C:\Users\miss\Desktop\AndroidSwitch1\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        timestamp="106802141813881"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\miss\Desktop\AndroidSwitch1\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="106839624781333"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\miss\Desktop\AndroidSwitch1\app\build\intermediates\builds\debug\106839624781333\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="106881247890984"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\miss\Desktop\AndroidSwitch1\app\build\intermediates\builds\debug\106881247890984\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="107039476860140"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\miss\Desktop\AndroidSwitch1\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>
